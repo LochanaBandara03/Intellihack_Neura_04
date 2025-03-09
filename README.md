@@ -36,5 +36,6 @@ Analyzed feature importance to understand model decisions
 
 ### Prerequisites
 
+Rename csv file as "stock_data.csv"
 Python 3.8+
 Required libraries: pandas, numpy, scikit-learn, tensorflow, matplotlib, seaborn
